@@ -8,7 +8,7 @@
 
 3) Install packages
 
-`pip3 install flask flask_restful numpy dlib`
+`pip3 install flask flask_restful flask-cors numpy dlib`
 
 4) Setup opencv into the new virtual environment. Do equivalent of the following for your setup:
 `cd venv/lib/python3.6/site-packages/`
